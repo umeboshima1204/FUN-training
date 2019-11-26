@@ -1,4 +1,4 @@
-from send_tocaro.quotes_provider import QuoteProvider
+from modules.quotes_provider import QuoteProvider
 from modules.tocaro_handler import TocaroHandler
 
 
